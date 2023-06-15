@@ -1,2 +1,4 @@
 #test
-print("samplehannoda")
+print("sample")
+print("sample2")
+print("sample3")
